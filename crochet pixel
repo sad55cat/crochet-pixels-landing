@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crochet Pixels: Turn Pixel Art into Crochet Patterns</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      background: #f4a261;
+      color: white;
+      padding: 20px 10%;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    header p {
+      margin: 10px 0 20px;
+    }
+    header .cta {
+      background: #2a9d8f;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    section {
+      padding: 20px 10%;
+    }
+    .features, .how-it-works {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+    }
+    .features div, .how-it-works div {
+      flex: 1;
+      background: #f0f0f0;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+    }
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      margin-top: 20px;
+    }
+    footer a {
+      color: #f4a261;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Crochet Pixels</h1>
+    <p>Turn Pixel Art into Crochet Patterns Effortlessly</p>
+    <a href="https://crochet-pixels-2hve.glide.page" class="cta">Try It Now</a>
+  </header>
+
+  <section class="features">
+    <div>
+      <h2>Easy to Use</h2>
+      <p>Quickly transform your pixel art into crochet patterns.</p>
+    </div>
+    <div>
+      <h2>Customizable</h2>
+      <p>Adjust patterns to suit your unique designs and preferences.</p>
+    </div>
+    <div>
+      <h2>Accessible Anywhere</h2>
+      <p>Use the app on any device, anytime, anywhere.</p>
+    </div>
+  </section>
+
+  <section class="how-it-works">
+    <div>
+      <h2>Step 1</h2>
+      <p>Design or upload your pixel art.</p>
+    </div>
+    <div>
+      <h2>Step 2</h2>
+      <p>Convert it into a crochet pattern instantly.</p>
+    </div>
+    <div>
+      <h2>Step 3</h2>
+      <p>Start creating your custom crochet project!</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Crochet Pixels. All rights reserved. <a href="https://crochet-pixels-2hve.glide.page">Visit the App</a></p>
+  </footer>
+</body>
+</html>
